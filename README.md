@@ -5,5 +5,4 @@ Entrega del módulo de **Big Data** en la concentración de *Inteligencia Artifi
 
 
 > Imagen del dashboard en Tableu
-
-![Dashboard](https://user-images.githubusercontent.com/80774502/203838454-ffc92d64-7390-4298-987d-53fda50b31c2.png)
+> ![Dashboard](https://user-images.githubusercontent.com/80774502/203838454-ffc92d64-7390-4298-987d-53fda50b31c2.png)
